@@ -2,6 +2,10 @@ cold and dry, but everything is my favourite colour
 two moons, and wolfman
 
 The gym sounds like a good idea for the afternoon
+<<<<<<< HEAD
 
 yes, joe loves when i show up for experiments in sweaty gym clothes
 
+=======
+I don't wanna work, I just wanna bang on the drum all day 
+>>>>>>> ae124ec4499f62e42a1665abffe3737605451d6f
